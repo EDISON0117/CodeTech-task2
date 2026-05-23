@@ -1,6 +1,6 @@
 Name: Edison.S
 
-Selected For: Java Programming
+Domine: Java Programming
 
 Duration: 4 Weeks
 
